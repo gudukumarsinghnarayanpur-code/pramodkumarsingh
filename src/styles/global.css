@@ -1,3 +1,4 @@
+/* Shared design tokens keep colors and typography consistent across sections. */
 :root {
   --ink: #17233b;
   --muted: #69758b;
